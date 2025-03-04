@@ -27,6 +27,7 @@ git clone https://github.com/ThatOneDudeV69/BasicStegonography.git
 
 ### Use the setup script
 ```sh
+chmod +x setup.sh
 sh setup.sh
 ```
 
