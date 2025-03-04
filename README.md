@@ -16,3 +16,17 @@
 ### 🔹 Hide a Message
 ```sh
 python stegotool.py --hide input.png secret.txt output.png
+
+```
+Installation
+
+### Clone the repository
+```sh
+git clone ThatOneDudeV69/BasicStegonography
+```
+
+### Use the setup script
+```sh
+sh setup.sh
+```
+
