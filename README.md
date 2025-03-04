@@ -22,7 +22,7 @@ Installation
 
 ### Clone the repository
 ```sh
-git clone ThatOneDudeV69/BasicStegonography
+git clone https://github.com/ThatOneDudeV69/BasicStegonography.git
 ```
 
 ### Use the setup script
